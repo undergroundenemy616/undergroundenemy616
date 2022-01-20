@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/46/d4/1f/46d41fc25bc6002614a8d85b637a1797.gif" width="500" border="0" align="right" alt="side Image" /> &nbsp;  
+<img src="https://i.pinimg.com/originals/46/d4/1f/46d41fc25bc6002614a8d85b637a1797.gif" width="400" border="0" align="right" alt="side Image" /> &nbsp;  
 
 ### Hi there 👋  
 
