@@ -21,6 +21,7 @@ My name is Philip and I'm mostly a backend developer.
 ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![compose](https://img.shields.io/badge/Docker_compose%20-%23F7DF1E.svg?&style=for-the-badge&color=blue)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
