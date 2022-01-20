@@ -1,4 +1,7 @@
+<img src="https://i.pinimg.com/originals/46/d4/1f/46d41fc25bc6002614a8d85b637a1797.gif" width="500" border="0" align="right" alt="side Image" /> &nbsp;  
+
 ### Hi there 👋  
+
 My name is Philip and I'm mostly a backend developer.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undergroundenemy616&layout=compact&theme=gotham&custom_title=Statistics)  
@@ -24,7 +27,7 @@ My name is Philip and I'm mostly a backend developer.
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 
-Are you interested in collaboration? I'm up to any inspiring projects.   <img src="https://i.pinimg.com/originals/46/d4/1f/46d41fc25bc6002614a8d85b637a1797.gif" width="355" border="0" align="right" alt="side Image" /> &nbsp;  
+Are you interested in collaboration? I'm up to any inspiring projects.   
 Get in touch with me through the attached links:  
 
 
