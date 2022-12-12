@@ -4,7 +4,7 @@
 
 My name is Philip and I'm mostly a backend developer.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undergroundenemy616&layout=compact&theme=gotham&custom_title=Statistics)  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undergroundenemy616&layout=compact&theme=gotham&custom_title=Statistics)   -->
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
